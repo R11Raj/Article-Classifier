@@ -72,7 +72,7 @@ Building N-gram data and article classification is done in a single file named "
 <li>"Trigram.ipynb"</li>
 <li>"Quadgram.ipynb"</li>
 <li>"Pentagram.ipynb"</li>
-<b>Note: The above files load both V1 and V2 sets so both BW-CW and Kesalj codes can run only one set of context words either V1 or V2. Seperate metric calculations cell are available in the files.</b>
+<b>Note:The n-grams can be generated as well as previously generated can also be used directly.The above files load both V1 and V2 sets so both BW-CW and Kesalj codes can run only one set of context words either V1 or V2. Seperate metric calculations cell are available in the files.</b>
 </ul>
 
 <h1>Conclusion</h1>
